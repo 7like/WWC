@@ -1,3 +1,30 @@
-Mama Dana athi code 1k na --z😂
 
-jsdndsknsdv.mndsmndvnjsdgvknmn .mnfdsf
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="a">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="">NSBM</a>
+		</div>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="index.php" >Home</a></li>
+				<li class="lia"><a href="">Lecturers</a></li>
+				<li class="lia"><a href="">Societies</a></li>
+				<li class="lia"><a href="">Events</a></li>
+				<li class="lia"><a href="">Messages</a></li>
+				<li class="lia"><div class="navbar-btn" id="timer"></div></li>
+				<li class="lia"><div class="navbar-btn" id="greet"></div></li>
+				<li class="lia"><a href="">LogOut</a></li>
+				
+			</ul>
+
+		</div>
+	</div>
+</nav>
