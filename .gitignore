@@ -1,3 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LMS NSBM</title>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="jscript.js"></script>
+</head>
+
+
+<body onload="start()">
 
 
 
@@ -28,3 +42,157 @@
 		</div>
 	</div>
 </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="container" id="mod">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <table class="table table-striped text-center">
+          <caption class="text-center">C Landuage Modules</caption>
+          <thead>
+            <tr>
+              <th>Lesson Code</th>
+              <th>Lesson Name</th>
+              <th>Total Sessions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>SOC_001_Le01</td>
+              <td><a href="cModules.php">Introduction to C Language</a>
+              <br/>
+              <span class="glyphicon glyphicon-envelope"></span>
+              <span class="glyphicon glyphicon-pencil"></span>
+              <span class="glyphicon glyphicon-remove"></span>
+              </td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>SOC_001_Le02</td>
+              <td><a href="cModules.php">C Language Variables</a>
+              <br/>
+              <span class="glyphicon glyphicon-envelope"></span>
+              <span class="glyphicon glyphicon-pencil"></span>
+              <span class="glyphicon glyphicon-remove"></span>
+              </td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>SOC_001_Le03</td>
+              <td><a href="cModules.php"></a>
+              <br/>
+              <span class="glyphicon glyphicon-envelope"></span>
+              <span class="glyphicon glyphicon-pencil"></span>
+              <span class="glyphicon glyphicon-remove"></span>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>SOC_001_Le03</td>
+              <td><a href="cModules.php"></a>
+              <br/>
+              <span class="glyphicon glyphicon-envelope"></span>
+              <span class="glyphicon glyphicon-pencil"></span>
+              <span class="glyphicon glyphicon-remove"></span>
+              </td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+<div class="container-fluid text-center">
+	<div id="footer">
+		
+		<br/>
+		<br/>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-4 m3">New Member Registrations For FOSS Community</div>
+				<div class="col-md-4 m3">New UCD GuideLines</div>
+				<div class="col-md-4 m3">Student HandBook</div>
+			</div>
+		</div>
+		<br/>
+		<div class="container-fluid">
+			<img src="w3.png" class="widerFooterImages">
+			<img src="w3css.png" class="widerFooterImages">
+			<img src="imgphp.png" class="squareFooterImages">
+			<img src="bt.png" class="squareFooterImages">
+			<img src="jq.png" class="widerFooterImages">
+      
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script scr="jquery.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+
+</body>
+</html>
+
+
+
+
